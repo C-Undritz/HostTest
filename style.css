@@ -1,0 +1,27 @@
+.top-column {
+	height: 100%;
+	background-color: red;
+}
+
+.top-column h2 {
+	color: white;
+}
+	
+.box-column {
+	background-color: #1DA3F0;
+	height: 120%;
+	padding: 20px 0px;
+	
+}
+
+.box-column p {
+	border: solid 1px black;
+	width: 100px;
+	min-width: 100px;
+	height: 100px;
+	/*min-height: 100px;*/
+	background-color: yellow;
+	/*margin: 0 auto;*/
+	margin: 0px;
+	margin: 5px;
+}
